@@ -1,3 +1,12 @@
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 title: Benjamin Cyr
 description: Personal Website
+
+author:
+  name   : "Benjamin Cyr"
+  avatar : "/assets/images/portrait.jpg"
+  bio    : "Ph.D. Student\nUniversity of Michigan CSE"
+  email  : bencyr@umich.edu
+  uri    : "www.benjamin-cyr.com"
+  home   : # null (default), "absolute or relative url to link to author home"
