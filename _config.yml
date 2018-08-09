@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Benjamin Cyr
 description: Personal Website
+github:
+  is_project_page: false
