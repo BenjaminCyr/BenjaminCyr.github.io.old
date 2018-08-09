@@ -1,4 +1,4 @@
-# Benjamin Andrew Cyr
+# Benjamin Cyr
 Personal Website
 
 This website is currently under construction. Thank you for your patience.
