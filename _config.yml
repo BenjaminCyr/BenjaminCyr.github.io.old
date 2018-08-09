@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 title: Benjamin Cyr
-description: Personal Website
+layout: single
 
 author:
   name   : "Benjamin Cyr"
